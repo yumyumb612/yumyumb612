@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
   </p>
   
   <p>
-    <b>python</b>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
+    <b>python</b>
   </p>
   
   <p>
