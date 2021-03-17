@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">hewo! am YUM</h1>
 
-<div align = "left">
   <p>
     <img align="center" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
     <img width="50" height="50" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
@@ -25,9 +24,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
 </dev>
 
-  
-</div>
-
 <!--
 <a href="https://archlinux.org/"><img style="width="150" height="100" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>wm:</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -41,4 +37,3 @@ You can click the Preview link to take a look at your changes.
 <div align = "right">
 <a href="https://discord.gg/NaXhwqWxV9"><img width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" /></a>
 </div>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yumm-b612&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
