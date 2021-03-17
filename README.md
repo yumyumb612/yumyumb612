@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">hewo! am YUM</h1>
 
 <div align = "center">
-  <p><img align="center" src="https://media2.giphy.com/media/j3hl83ILQ5aQJJspLu/200w.webp?cid=ecf05e47bhey4xxhe84amzzew3m1obgzynph4qvtb4pgsh1h&rid=200w.webp" /></p>
+  <p><img align="center" src="https://media3.giphy.com/media/hsDkitC0kWA60R5VEU/200w.webp?cid=ecf05e471uy4eakvr7e9swki89xykxfvueezqakne1k0sea7&rid=200w.webp" /></p>
+  <b>i like all, coz why not?</b>
   <p>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
