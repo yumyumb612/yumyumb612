@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">hewo! am YUM</h1>
 
-<div align = "center">
+<div align = "left">
   <p>
     <img align="center" src="https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.webp?cid=ecf05e478ll84ldbusm2d5ffledkqj7p9od2giqwftru5a5s&rid=giphy.webp" />
     <b>i like all, coz why not?</b>
@@ -30,5 +30,6 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact" />
 </p>
 -->
-
+<div align = "right">
 <a href="https://discord.gg/NaXhwqWxV9"><img width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" /></a>
+</div>
