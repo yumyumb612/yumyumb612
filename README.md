@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <h2>system:</h2>
   <br>
   <a href="https://archlinux.org/"><img style="width="150" height="100" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
-  &nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp
   <a href="https://dwm.suckless.org/"><img style="width="100" height="50" src="https://suckless.org/logo.svg"/></a>
   
   <br>
@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
   <br>
   <h2>ide:</h2>
   <br>
-  <a href="https://code.visualstudio.com/"><img style="width="150" height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fopengraphimg%2Fopengraph-blog.png&f=1&nofb=1"/></a>
+  <a href="https://code.visualstudio.com/"><img style="width="250" height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fopengraphimg%2Fopengraph-blog.png&f=1&nofb=1"/></a>
 
