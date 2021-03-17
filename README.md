@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <img align="left" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
-<img width="50" height="50" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
+<img width="100" height="100" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
 <b>yumyumyumyum#6512</b>
 
 <br><br>
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact" />
 </p>
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
 <div align = "right">
 <a href="https://discord.gg/NaXhwqWxV9"><img width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" /></a>
 </div>
