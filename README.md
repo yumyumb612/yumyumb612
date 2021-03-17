@@ -8,7 +8,7 @@ yumm-b612/yumm-b612 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
- <h1>am YUM</h1>
+ <h1 align="center">am YUM</h1>
  <b>reach yum</b>
  <br>
  <a href="https://discord.gg/NaXhwqWxV9"><img style="Padding: 0px; margin: 0px" width="250" height="200" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg"/></a>
