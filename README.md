@@ -16,15 +16,15 @@ You can click the Preview link to take a look at your changes.
   </p>
   <p>
     <p>
-      <b>python</b>
+      <b>python</b> <br>
       <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
     </p>
     <p>
-      <b>vscode</b>
+      <b>vscode</b> <br>
       <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
     </p>
     <p>
-      <b>github</b>
+      <b>github</b> <br>
       <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
     </p>
   </p>
