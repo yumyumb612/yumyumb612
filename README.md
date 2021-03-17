@@ -15,22 +15,22 @@ You can click the Preview link to take a look at your changes.
     <b>i like all, coz why not?</b>
   </p>
   
-  <p>
-    <dev>
-      <b>python</b> <br>
-      <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
-    </dev>
-  
-    <dev>
-      <b>vscode</b> <br>
-      <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
-    </dev>
-    
-    <dev>
-      <b>github</b> <br>
-      <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
-    </dev>
-  </p>
+
+<dev>
+  <b>python</b> <br>
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
+</dev>
+
+<dev>
+  <b>vscode</b> <br>
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
+</dev>
+
+<dev>
+  <b>github</b> <br>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
+</dev>
+
   
 </div>
 
