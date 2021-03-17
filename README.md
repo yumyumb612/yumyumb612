@@ -14,18 +14,12 @@ You can click the Preview link to take a look at your changes.
 <img width="50" height="50" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
 <b>yumyumyumyum#6512</b>
 
-
-
-
-<div align = "left">
-<b>my tools</b>
-  <hr>
+<h2>my tools</h2>
   <b>&nbsp&nbsp&nbsp&nbsp&nbsp python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  github</b>       
   <br>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
-</dev>
 
 <!--
 <a href="https://archlinux.org/"><img style="width="150" height="100" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
