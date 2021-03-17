@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <h2>system:</h2>
   <br>
   <a href="https://archlinux.org/"><img style="width="150" height="100" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
-  󠀬&󠀬nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://dwm.suckless.org/"><img style="width="100" height="50" src="https://suckless.org/logo.svg"/></a>
   
   <br>
