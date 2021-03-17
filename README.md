@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 <img width="50" height="50" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
 <b>yumyumyumyum#6512</b>
 
-<dev align="left">
-<h3>my tools</h3>
+<br><br>
+
+<div align = "right">
+  <h3>my tools</h3>
   <b>&nbsp&nbsp&nbsp&nbsp&nbsp python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  github</b>       
   <br>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
