@@ -9,10 +9,16 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">hewo! am YUM</h1>
 
-<dev align="left">
-  <p><img scr="https://media2.giphy.com/media/j3hl83ILQ5aQJJspLu/200w.webp?cid=ecf05e47bhey4xxhe84amzzew3m1obgzynph4qvtb4pgsh1h&rid=200w.webp" /></p>
-</dev>
-
+<div align = "center">
+  <p><img align="center" src="https://media2.giphy.com/media/j3hl83ILQ5aQJJspLu/200w.webp?cid=ecf05e47bhey4xxhe84amzzew3m1obgzynph4qvtb4pgsh1h&rid=200w.webp" /></p>
+  <p>
+    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  </p>
+  
+</div>
+<!--
 <a href="https://archlinux.org/"><img style="width="150" height="100" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>wm:</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://dwm.suckless.org/"><img style="width="100" height="50" src="https://suckless.org/logo.svg"/></a>
@@ -20,6 +26,6 @@ You can click the Preview link to take a look at your changes.
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact" />
 </p>
-
+-->
 
 <a href="https://discord.gg/NaXhwqWxV9"><img style="width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg"/></a>
