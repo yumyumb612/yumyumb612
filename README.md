@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">hewo! am YUM</h1>
 <p>
-  <img scr="https://media2.giphy.com/media/j3hl83ILQ5aQJJspLu/200w.webp?cid=ecf05e47bhey4xxhe84amzzew3m1obgzynph4qvtb4pgsh1h&rid=200w.webp">
+  <img scr="https://media2.giphy.com/media/j3hl83ILQ5aQJJspLu/200w.webp?cid=ecf05e47bhey4xxhe84amzzew3m1obgzynph4qvtb4pgsh1h&rid=200w.webp" />
   <b>binary</b>
 </p>
 
