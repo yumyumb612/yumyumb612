@@ -8,7 +8,7 @@ yumm-b612/yumm-b612 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
- <h1 align="center">YUM</h1>
+ <h1 align="center">hewo! am YUM</h1>
  
   <h2>connections to earth:</h2>
   <br>
