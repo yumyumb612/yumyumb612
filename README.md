@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
  <a href="https://discord.gg/NaXhwqWxV9"><img style="Padding: 0px; margin: 0px" width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg"/></a>
 <details open>
   <summary>👀 <b>I know</b></summary>
-  <a href="https://archlinux.org/"><img style="Padding: 0px; margin: 0px" width="150" height="100" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
+  <a href="https://archlinux.org/"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
   <br>
-  <a href="https://www.python.org/"><img style="Padding: 0px; margin: 0px" width="150" height="100" src="https://www.python.org/static/img/python-logo.png"/></a>
+  <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png"/></a>
 </details>
 </div>
