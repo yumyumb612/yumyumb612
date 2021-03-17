@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes.
   
   <h2>system:</h2>
   <br>
-  <a href="https://archlinux.org/"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
+  <a href="https://archlinux.org/"><img style="width="250" height="200" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
   
   <br>
   <h2>language:</h2>
   <br>
-  <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png"/></a>
+  <a href="https://www.python.org/"><img style="width="250" height="200" src="https://www.python.org/static/img/python-logo.png"/></a>
   
   <br>
   <h2>ide:</h2>
