@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
     <img width="50" height="50" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
     <b>yumyumyumyum#6512</b>
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yumm-b612&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)    
+    <img src"https://github-readme-stats.vercel.app/api?username=yumm-b612&theme=onedark&show_icons=true" />
   </p>
 
 <br><br>
