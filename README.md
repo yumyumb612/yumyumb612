@@ -12,9 +12,11 @@ You can click the Preview link to take a look at your changes.
 <div align = "left">
   <p>
     <img align="center" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
-    <img styles="border: 2px solid red; border-radius: 25px;" width="100" height="100" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/><h3>yumyumyumyum#6512</h3>
+    <img styles="border: 2px solid red; border-radius: 25px;" width="100" height="100" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
+    <b>yumyumyumyum#6512</b>
   </p>
-  
+
+<br><br>
 <h2>my tools</h2>
 <dev>
   <b>&nbsp&nbsp&nbsp&nbsp&nbsp python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  github</b> <br>
