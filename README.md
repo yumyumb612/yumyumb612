@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
--  ...
+-  ...https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.webp?cid=ecf05e478ll84ldbusm2d5ffledkqj7p9od2giqwftru5a5s&rid=giphy.webp
 yumm-b612/yumm-b612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align = "left">
   <p>
-    <img align="center" src="https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.webp?cid=ecf05e478ll84ldbusm2d5ffledkqj7p9od2giqwftru5a5s&rid=giphy.webp" />
+    <img align="center" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
     this is a test \n next line
   </p>
   
