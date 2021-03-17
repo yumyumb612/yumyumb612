@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 -->
 
-<a href="https://discord.gg/NaXhwqWxV9"><img style="width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg"/></a>
+<a href="https://discord.gg/NaXhwqWxV9"><img width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" /></a>
