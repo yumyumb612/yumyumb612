@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 <div align = "right">
-  <b>my tools</b>
-  <hr>
+  <h2>my tools</h2>
   <b>&nbsp&nbsp&nbsp&nbsp&nbsp python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  github</b>       
   <br>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
