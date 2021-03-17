@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
   <p>
     <img align="center" src="https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.webp?cid=ecf05e478ll84ldbusm2d5ffledkqj7p9od2giqwftru5a5s&rid=giphy.webp" />
     <b>i like all, coz why not?</b>
+    <b>i like all, coz why not?</b>
   </p>
   
 <h2>my tools</h2>
