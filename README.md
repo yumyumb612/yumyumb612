@@ -9,16 +9,18 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">hewo! am YUM</h1>
 
+
   <p>
     <img align="center" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
     <img width="50" height="50" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
     <b>yumyumyumyum#6512</b>
   </p>
-
 <br><br>
+
+<div align = "left">
 <h2>my tools</h2>
-<dev>
-  <b>&nbsp&nbsp&nbsp&nbsp&nbsp python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  github</b> <br>
+  <b>&nbsp&nbsp&nbsp&nbsp&nbsp python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  github</b>       
+  <br>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
