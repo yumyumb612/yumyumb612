@@ -10,12 +10,14 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">hewo! am YUM</h1>
 
 <div align = "center">
-  <p><img align="center" src="https://media3.giphy.com/media/hsDkitC0kWA60R5VEU/200w.webp?cid=ecf05e471uy4eakvr7e9swki89xykxfvueezqakne1k0sea7&rid=200w.webp" /></p>
-  <b>i like all, coz why not?</b>
   <p>
-    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+    <img align="center" src="https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.webp?cid=ecf05e478ll84ldbusm2d5ffledkqj7p9od2giqwftru5a5s&rid=giphy.webp" />
+    <b>i like all, coz why not?</b>
+  </p>
+  <p>
+    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
+    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
   </p>
   
 </div>
