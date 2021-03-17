@@ -26,5 +26,5 @@ You can click the Preview link to take a look at your changes.
   <br>
   <h2>ide:</h2>
   <br>
-  <a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/blogs/2017/10/24/blueicon.png"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fopengraphimg%2Fopengraph-blog.png&f=1&nofb=1"/></a>
 
