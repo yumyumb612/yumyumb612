@@ -10,13 +10,17 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
  <h1>am YUM</h1>
- <h3>📫</h3>
+ <b>reach yum</b>
+ <br>
  <a href="https://discord.gg/NaXhwqWxV9"><img style="Padding: 0px; margin: 0px" width="250" height="200" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg"/></a>
   
   <b>OS</b>
+  <br>
   <a href="https://archlinux.org/"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
+  
   <br>
   <b>language</b>
+  <br>
   <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png"/></a>
 
 </div>
