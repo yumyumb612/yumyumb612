@@ -17,8 +17,9 @@ You can click the Preview link to take a look at your changes.
   
   <p>
     <dev>
+      <b>python</b> <br>
       <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
-      <br> <b>python</b>
+      <b>python</b>
     </dev>
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
     <b>vscode</b>
