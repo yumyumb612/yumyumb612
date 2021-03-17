@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   </p>
   
   <p>
+  <nobr>
     <b>python</b> <br>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
   </p>
@@ -26,6 +27,7 @@ You can click the Preview link to take a look at your changes.
   <p>
     <b>github</b> <br>
     <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
+  </nobr>
   </p>
   
 </div>
