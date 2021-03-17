@@ -1,10 +1,9 @@
+<!---
 - 👋 Hi, I’m @yumm-b612
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 -  ...
-
-<!---
 yumm-b612/yumm-b612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -16,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 <details open>
   <summary>👀 <b>I know</b></summary>
   <a href="https://archlinux.org/"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
+  <br>
   <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png"/></a>
 </details>
 </div>
