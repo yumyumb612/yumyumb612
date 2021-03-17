@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <b>yumyumyumyum#6512</b>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
