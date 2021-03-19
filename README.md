@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
   <h2>my tools</h2>
   <b>python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp github &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b>       
   <br>
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
+  <a href="https://www.python.org"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" /></a>
+  <a href="https://github.com/"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" /></a>
 </dev>
 
 <!--
