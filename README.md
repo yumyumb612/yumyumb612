@@ -3,25 +3,21 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+- <img align="left" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
 -  ...https://media1.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.webp?cid=ecf05e478ll84ldbusm2d5ffledkqj7p9od2giqwftru5a5s&rid=giphy.webp
 yumm-b612/yumm-b612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">hewo! am YUM</h1>
+<h1 align="center">hOnk, HEWO!</h1>
+<img width="300" height="300" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
 
-
-<img align="left" src="https://media4.giphy.com/media/WmWPS2FKdMSPhLiMBu/200.webp" />
-<img width="100" height="100" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
-<b>yumyumyumyum#6512</b>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&show_icons=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
 <div align = "right">
-  <h2>my tools</h2>
-  <b>python &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp vscode  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp github &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b>       
+  <h2>things i use daily</h2>     
   <br>
   <a href="https://www.python.org"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" /></a>
   <a href="https://code.visualstudio.com"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" /></a>
@@ -37,7 +33,3 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact" />
 </p>
 -->
-
-<div align = "right">
-<a href="https://discord.gg/NaXhwqWxV9"><img width="150" height="100" src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" /></a>
-</div>
