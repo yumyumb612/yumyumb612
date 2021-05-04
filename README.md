@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <b>discord:</b> yumyumyumyum#6512 <br> <b>hewo am yumyum aka yum</b> <br><br>
 <p>• 👀 am interested in  &nbsplinux, ﮧ &nbspbot development and  &nbspfuuds ofc</p>
 <p>• 🌱 am currently learning ﭮ &nbspdiscord bot development</p>
-<p>• ⚙️ am heavily working on <a href="https://github.com/yumm-b612/moji.py">moji</a></p>
+<p>• ⚙️ am heavily working on <img width="50.5px" height="50px" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/moji%20profiles/moji.png"/> <a href="https://github.com/yumm-b612/moji.py">moji</a></p>
 <p>join moji's <a href="https://discord.gg/NaXhwqWxV9"><img width="88.6" height="21.6" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/></a> server</p>
 
 <br><br>
