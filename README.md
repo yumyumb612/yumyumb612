@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 <h1>hOnk, HEWO!</h1>
 <img width="300" height="300" align="left" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
 <b>discord:</b> yumyumyumyum#6512 <br> <b>hewo am yumyum aka yum</b> <br><br>
-<p>• 👀 am interested in  linux, ﮧ bot development and  fuuds ofc</p>
-<p>• 🌱 am currently learning ﭮ discord bot development</p>
+<p>• 👀 am interested in   linux, ﮧ  bot development and   fuuds ofc</p>
+<p>• 🌱 am currently learning ﭮ  discord bot development</p>
 <p>• ⚙️ am heavily working on <a href="https://github.com/yumm-b612/moji.py">moji</a></p>
 <p>join moji's <a href="https://discord.gg/NaXhwqWxV9"><img width="88.6" height="21.6" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/></a> server</p>
 
