@@ -8,8 +8,8 @@
 yumm-b612/yumm-b612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">hOnk, HEWO!</h1>
-<img width="300" height="300" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
+<h1>hOnk, HEWO!</h1>
+<img width="300" height="300" align="left" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
 <b>discord:</b> yumyumyumyum#6512 <br> <b>hewo am yumyum aka yum</b> <br>
 <p>• 👀 I’m interested in linux, programing/bot development and nasa and fuuds ofc</p> <br>
 <p>• 🌱 I’m currently learning discord bot development</p> <br>
