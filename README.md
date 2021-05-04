@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">hOnk, HEWO!</h1>
 <img width="300" height="300" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
+<b>discord:</b> yumyumyumyum#6512 <br> <b>hewo am yumyum aka yum</b> <br>
+<p>• 👀 I’m interested in linux, programing/bot development and nasa and fuuds ofc</p> <br>
+<p>• 🌱 I’m currently learning discord bot development</p> <br>
+<p>• 🌱 I’m currently learning discord bot development</p> <br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&show_icons=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
@@ -25,6 +27,8 @@ You can click the Preview link to take a look at your changes.
 </dev>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&show_icons=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://archlinux.org/"><img style="width="150" height="100" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/></a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<b>wm:</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://dwm.suckless.org/"><img style="width="100" height="50" src="https://suckless.org/logo.svg"/></a>
