@@ -1,6 +1,8 @@
 <h1>hOnk, HEWO!</h1>
+
 <img width="300" height="300" align="left" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
-<b>discord:</b> yumyumyumyum#6512 <br> <b>hewo am yumyum aka yum</b> <br><br>
+hewo am <b>yumyum</b> aka <b>yum</b> <br> <b>discord:</b> yumyumyumyum#6512 <br><br>
+
 <p>• 👀 am interested in  &nbsplinux, ﮧ &nbspbot development and  &nbspfuuds ofc</p>
 <p>• 🌱 am currently learning ﭮ &nbspdiscord bot development</p>
 <p>• ⚙️ am heavily working on <img width="25.2px" height="25px" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/moji%20profiles/moji.png"/> <a href="https://github.com/yumm-b612/moji.py">moji</a></p>
