@@ -6,8 +6,8 @@
 
 <p>• 👀 am interested in  &nbsplinux, ﮧ &nbspbot development and  &nbspfuuds ofc</p>
 <p>• 🌱 am currently learning ﭮ &nbspdiscord bot development</p>
-<p>• ⚙️ am heavily working on <img width="25.2px" height="25px" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/moji%20profiles/moji.png"/> <a href="https://github.com/yumm-b612/moji.py">moji</a></p>
-<p>join moji's <a href="https://discord.gg/NaXhwqWxV9"><img width="88.6" height="21.6" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/></a> server</p>
+<p>• ⚙️ am heavily working on <img width="25.2px" height="25px" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/moji%20profiles/moji.png"/> <a href="https://github.com/yumm-b612/moji.py">moji</a>, join his <a href="https://discord.gg/NaXhwqWxV9"><img width="88.6" height="21.6" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/></a> server</p>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact"/>
 
