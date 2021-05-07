@@ -1,8 +1,8 @@
 <h1>hOnk, HEWO!</h1>
 
 <img width="300" height="300" align="left" src="https://cdn.discordapp.com/attachments/819660765018980393/821816728202903622/20210309_224533.jpg"/>
-<p>hewo am <b>yumyum</b> aka <b>yum</b> <br>
-<b>discord:</b> yumyumyumyum#6512</p> <br>
+<p>hewo am <b>yumyum</b> aka <b>yum</b> aka <b>kshly</b> <br>
+<b>discord:</b> yumyum#6512</p> <br>
 
 <p>• 👀 am interested in  &nbsplinux, ﮧ &nbspbot development and  &nbspfuuds ofc</p>
 <p>• 🌱 am currently learning ﭮ &nbspdiscord bot development</p>
