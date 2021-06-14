@@ -4,7 +4,7 @@
 <p>hewo am <b>yumyum</b> aka <b>yum</b> aka <b>kshly</b> <br>
 <b>discord:</b> yumyum#6512</p> <br>
 
-<p>• 👀 am interested in 🐧 &nbsplinux, 🤖 &nbspbot development</p>
+<p>• 👀 am interested in 🐧 &nbsplinux and in 🤖 &nbspbot development</p>
 <p>• 🌱 am currently learning <img width="25px" height="25px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> &nbspdiscord bot development</p>
 <p>• ⚙️ am heavily working on <img width="25px" height="25px" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/utils/assets/moji.png"/> <a href="https://github.com/yumm-b612/moji.py">moji</a>, join his <a href="https://discord.gg/NaXhwqWxV9"><img width="88.6" height="21.6" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/></a> server</p>
 
