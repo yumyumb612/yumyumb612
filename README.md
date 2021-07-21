@@ -17,10 +17,8 @@
 </div>
 
 <h2>I use</h2>
-<img width="10%" height="10%" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
-<br>
+<img width="10%" height="10%" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"/>
 <img width="10%" height="10%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"/>
-<br>
 <img width="10%" height="10%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/>
 
 
