@@ -15,5 +15,4 @@
 <br>
 <b>yum</b>
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
-<br>
 <img width="50%" height="50%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/>
