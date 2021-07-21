@@ -17,9 +17,10 @@
 </div>
 
 <h2>I use</h2>
-<img width="10%" height="10%" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"/>
-<img width="10%" height="10%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"/>
-<img width="10%" height="10%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/>
-
+<div class="div3">
+	<img width="10%" height="10%" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"/>
+	<img width="10%" height="10%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"/>
+	<img width="30%" height="30%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/>
+</div>
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact"/>-->
