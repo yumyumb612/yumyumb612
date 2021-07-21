@@ -1,4 +1,4 @@
-<h2>Top three words I like</h2>
+<h2>Top words I often use</h2>
 <div class="div1">
 	<ul>
 		<li>moji</li>
