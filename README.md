@@ -3,7 +3,7 @@
 <br>
 <img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
 <br>
-<img width="50px" height="50px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/>
+<img width="60px" height="60px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/>
 <b>MOJI</b>
 <img width="50%" height="50%" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/>
 <br>
