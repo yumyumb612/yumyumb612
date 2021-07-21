@@ -1,14 +1,19 @@
 <h2>Top three words I like</h2>
-<ul>
-	<li>moji<</li>
-	<li>honk</li>
-	<li>yeet</li>
-</ul>
+<div class="div1">
+	<ul>
+		<li>moji</li>
+		<li>honk</li>
+		<li>yeet</li>
+	</ul>
+</div>
 
 <h2>If you wanna chat with me</h2>
-<img width="20%" height="20%" align="left" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/utils/assets/moji/moji_hd.png"/>
-<img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
+<div class="div2>
+	<img width="20%" height="20%" align="left" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/utils/assets/moji/moji_hd.png"/>
+	<img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
+</div>
 
+<h2>.</h2>
 <img width="20%" height="20%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
 <img width="20%" height="20%" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/>
 <img width="20%" height="20%" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
