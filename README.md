@@ -1,4 +1,9 @@
-<p>[<b>Honk</b>, <b>MOJI</b>, <b>yeeeeEEEEEEeeeet</b>]</p>
+<h2>Words I like</h2>
+<ul>
+	<li><b>Honk</b></li>
+	<li><b>MOJI</b></li>
+	<li><b>yeeeeEEEEEEeeeet</b></li>
+</ul>
 <img width="20%" height="20%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
 <img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
 <img width="20%" height="20%" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/>
