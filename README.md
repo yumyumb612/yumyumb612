@@ -11,7 +11,7 @@
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
 <img width="162.75" height="223.125" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/utils/assets/moji/moji_hd.png"/>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact"/>
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact"/>-->
 <br>
 <b>yum</b>
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
