@@ -16,10 +16,12 @@
 	<img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
 </div>
 
-<h2>.</h2>
-<img width="20%" height="20%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
+<h2>I use</h2>
+<img width="10%" height="10%" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
+<br>
+<img width="10%" height="10%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"/>
+<br>
+<img width="10%" height="10%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/>
 
-<img width="20%" height="20%" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
+
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumm-b612&theme=dark&layout=compact"/>-->
-<img width="20%" height="20%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"/>
-<img width="20%" height="20%" src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png"/>
