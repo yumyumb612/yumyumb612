@@ -10,9 +10,11 @@
 <h2>If you wanna chat with me</h2>
 <div class="div2">
 	<img width="15%" height="15%" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/utils/assets/moji/moji_hd.png"/>
-	<img width="20%" height="20%" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/>
-	<br>
-	<img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
+	<div>
+		<img width="20%" height="20%" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/>
+		<br>
+		<img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
+	</div>
 </div>
 
 <h2>.</h2>
