@@ -13,7 +13,7 @@
 	<br><br>
 	<img width="20%" height="20%" src="https://raw.githubusercontent.com/yumm-b612/moji.py/f888e44b6319f2a9519de7d4fdd04c9294595fad/branding%20logos/discord/Discord-Wordmark-Color.svg"/>
 	<br>
-	<img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/>
+	<a href="https://discord.gg/NaXhwqWxV9"><img src="https://invidget.switchblade.xyz/NaXhwqWxV9"/></a>
 </div>
 
 <h2>I use</h2>
