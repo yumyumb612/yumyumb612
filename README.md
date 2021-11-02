@@ -8,7 +8,7 @@
 	</ul>
 </div>
 
-<h2>If you wanna chat with me</h2>
+<h2>Contact me</h2>
 <div class="div2">
 	<img width="17%" height="17%" align="left" src="https://raw.githubusercontent.com/yumm-b612/moji.py/main/utils/assets/moji/moji_hd.png"/>
 	<br><br>
