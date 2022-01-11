@@ -1,6 +1,7 @@
 Elo good sir!
 =============
-My name is yum and u can call me just yum. As one good frend once said *"Yum is yum even when yum is not yum."* :D
+| My name is *yum* and u can call me just **yum**.
+| As one good frend once said *"Yum is yum even when yum is not yum."* :D
 
 My Top werds
 ------------
