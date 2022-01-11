@@ -5,10 +5,11 @@ Elo good sir!
 
 My Top werds
 ------------
-- moji
-- honk
-- yeet
-- bred
+- ELO
+- HONK
+- YEET
+- MOJI
+- BRED
 
 Discord Server
 --------------
