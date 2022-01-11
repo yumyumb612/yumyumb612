@@ -37,6 +37,6 @@ Things I Use Daily
 
 Statistics
 ~~~~~~~~~~
-.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=yumyumb612&show_icons=true&theme=nord&layout=compact&hide_border=true
-   :target: https://github-readme-stats.vercel.app/api/top-langs/?username=yumyumb612&show_icons=true&theme=nord&layout=compact&hide_border=true
+.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=yumyumb612&show_icons=true&theme=nord&layout=compact&hide_border=true&custom_title=Language%20Statistics
+   :target: https://github-readme-stats.vercel.app/api/top-langs/?username=yumyumb612&show_icons=true&theme=nord&layout=compact&hide_border=true&custom_title=Language%20Statistics
    :alt: Statistics
