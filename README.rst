@@ -3,7 +3,7 @@ Elo good sir!
 | My name is *yum* and u can just call me **yum**.
 | As one good frend once said *"Yum is yum even when yum is not yum."* :D
 
-My Top werds
+My Top Werds
 ------------
 - ELO
 - HONK
@@ -21,7 +21,7 @@ Discord Server
    :target: https://discord.com
    :width: 300
    :alt: moji
-|
+| 
 .. image:: https://invidget.switchblade.xyz/NaXhwqWxV9
    :target: https://discord.gg/NaXhwqWxV9
    :alt: https://discord.gg/NaXhwqWxV9
