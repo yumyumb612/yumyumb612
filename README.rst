@@ -41,6 +41,11 @@ Things I Use Daily
    :target: https://archlinux.org/
    :width: 150
    :alt: Archlinux BTW
+| 
+.. image:: https://xmonad.org/images/logo-wordmark.svg
+   :target: https://xmonad.org/
+   :width: 150
+   :alt: xmonad
 |
 .. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=yumyumb612&show_icons=true&theme=nord&layout=compact&hide_border=true&custom_title=Language%20Statistics
    :target: https://github-readme-stats.vercel.app/api/top-langs/?username=yumyumb612&show_icons=true&theme=nord&layout=compact&hide_border=true&custom_title=Language%20Statistics
