@@ -1,4 +1,4 @@
-Elo good sir!
+Elo good Sir/Madame!
 =============
 | My name is *yum* and u can just call me **yum**.
 | As one good frend once said *"Yum is yum even when yum is not yum."* :D
